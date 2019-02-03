@@ -2,7 +2,7 @@
 
 #### `Developer and Futurist`
 
-[Download CV](./files/README.pdf)
+[Download CV](https://github.com/pramishp/cv/raw/master/files/README.pdf)
 
 ## Summary
 Loves technology, books, `<coding>`. 
