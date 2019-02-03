@@ -2,8 +2,12 @@
 
 #### `Developer and Futurist`
 
+[Download CV](./files/README.pdf)
+
 ## Summary
-Loves technology, books, `<coding>`. Github profile: http://github.com/pramishp
+Loves technology, books, `<coding>`. 
+Github profile: http://github.com/pramishp 
+
 
 ## Projects
 - #### Budhi Gandaki Hydropower Android Application
