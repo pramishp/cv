@@ -2,8 +2,6 @@
 
 #### `Developer and Futurist`
 
-[Download CV](https://github.com/pramishp/cv/raw/master/files/README.pdf)
-
 ## Summary
 Loves technology, books, `<coding>`. 
 Github profile: http://github.com/pramishp 
@@ -88,3 +86,7 @@ Music &bull; Reading
 [![Email](./images/email.png "Email: pramish.paudel123@gmail.com")](mailto:pramish.paudel123@gmail.com@gmail.com) 
 [![Instagram](./images/Instgram.png "Instagram: atulmy")](https://www.instagram.com/promise.paudel/) 
 [![Facebook](./images/Facebook.png "Facebook Profile")](https://www.facebook.com/pramish.paudel)
+
+
+[Download CV](https://github.com/pramishp/cv/raw/master/files/README.pdf)
+*Not Recommended*
